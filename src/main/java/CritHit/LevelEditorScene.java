@@ -40,7 +40,7 @@ public class LevelEditorScene extends Scene{
     };
 
     public LevelEditorScene(){
-        System.out.println("Entering Level Editor 0w0");
+        System.out.println("Entering Level Editor");
     }
 
     @Override
